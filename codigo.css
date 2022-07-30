@@ -1,6 +1,18 @@
 *{
-    background-image: url("https://images.unsplash.com/photo-1582472636894-c22933bb1ac2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80");
+    background-image: url("https://images.unsplash.com/photo-1658755837576-b68e46c1ed21?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80");
     background-repeat: no-repeat;
     background-size: cover;
+}
 
+h1 {
+    font-weight: 600;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 26px;
+    color: white;
+}
+p{
+    color: aliceblue;
+}
+button{
+    color: white;
 }
