@@ -1,11 +1,10 @@
 alert("hola");
+alert("como te va");
 
 "use strict";
-console.log("declarando funciones");
+
 let contador = 0;
 function clickear() {
-//incrementa el valor de contador
 contador++;
-console.log("Hiciste " + contador + " clicks")
-//es lo mismo que contador = contador + 1
+    console.log("Hiciste " + contador + " clicks")
 }
